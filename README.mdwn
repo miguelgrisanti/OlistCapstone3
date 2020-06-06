@@ -1,0 +1,9 @@
+OLIST: Brazilian E-Commerce (RFM Model)
+
+With the purpose of determining the value of users in this  website we take a closer look at their transactions building an RFM model. This marketing analysis tool that stands for Recency, Frequency, and Monetary will enable us to segment the current and potential value of our users for key takeaways and strategic call-to-actions.
+
+This repository contains:
+- Case Study Presentation
+- Appendix (Jupyter Notebook)
+
+Dataset: https://www.kaggle.com/olistbr/brazilian-ecommerce
